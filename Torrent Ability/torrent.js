@@ -2,7 +2,7 @@ import { world } from
 'mojang_minecraft'
 import commands from '../
 import.js';
-import { getScore } from "./../
+import { getScore } from "./../../
 util.js";
 
 const command = {
