@@ -3,7 +3,7 @@ import { world } from
 import commands from '../
 import.js';
 import { getScore } from "./../
-utility.js";
+util.js";
 
 const command = {
     name: 'Torrent',
