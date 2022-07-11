@@ -7,8 +7,8 @@ util.js";
 
 const command = {
     name: 'Torrent',
-    description: 'A spinning water around
-you that you can shoot at your enemy.',
+    description: 'Create a spinning water around
+you that you and shoot at your enemy.',
     style: 'water',
     unlockable: 0,
     execute (player) {
