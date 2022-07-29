@@ -3,6 +3,8 @@
   "minecraft:client_entity": {
     "description": {
       "identifier": "avatar:water_entity",
+      "is_summonable": "true",
+      "is_spawnable": "false",
       "materials": {
         "default": "slime",
         "outer": "slime_outer"
